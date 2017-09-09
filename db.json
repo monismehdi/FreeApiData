@@ -1,1 +1,31 @@
 
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "bulb",
+      "category":"light",
+      "description":"Description of the material goes here",
+      "price":100,
+      "discount":5
+      
+    },
+    {
+      "id": 2,
+      "title": "Kenichi Fan",
+      "category":"fan",
+      "description":"Description of the material goes here",
+      "price":200,
+      "discount":15
+      
+    },
+    {
+      "id": 3,
+      "title": "3-pin-socket",
+      "category":"socket",
+      "description":"Description of the material goes here",
+      "price":100,
+      "discount":5 
+    }
+  ]
+}
