@@ -6,6 +6,7 @@
       "title": "bulb",
       "category":"light",
       "description":"Description of the material goes here",
+      "image":"http://via.placeholder.com/320x180",
       "price":100,
       "discount":5
       
@@ -15,6 +16,7 @@
       "title": "Kenichi Fan",
       "category":"fan",
       "description":"Description of the material goes here",
+      "image":"http://via.placeholder.com/320x180",
       "price":200,
       "discount":15
       
@@ -24,6 +26,7 @@
       "title": "3-pin-socket",
       "category":"socket",
       "description":"Description of the material goes here",
+      "image":"http://via.placeholder.com/320x180",
       "price":100,
       "discount":5 
     }
