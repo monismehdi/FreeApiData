@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "bulb",
+    "category": "light",
+    "image":"http://via.placeholder.com/350x150",
+  },
+  {
+      "id": 2,
+      "title": "Kenichi Fan",
+      "category":"fan",
+      "image":"http://via.placeholder.com/320x180"
+      
+    },
+    {
+      "id": 3,
+      "title": "3-pin-socket",
+      "category":"socket",
+      "image":"http://via.placeholder.com/320x180",
+     }
+  ]
+}
